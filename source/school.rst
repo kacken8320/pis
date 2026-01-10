@@ -110,7 +110,7 @@ All schools, primary, secondary and tertiary, use the following for assessment s
 - **49-0**, "Unacceptable" or "Failed"
 
 Lunch
-=====
+-----
 
 The lunch is prepared by professional nutritionists and cooks. They only use unprocessed foods. No sugar is used, except for naturally occurring sugars in unprocessed foods. For drinks, they only serve water and tea.
 
