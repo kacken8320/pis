@@ -6,31 +6,26 @@ School is centralized and controlled by the state. It is focused on efficiency a
 Levels
 ------
 
-Primary education
-
-- Kindergarten (3-6 years), mandatory
-- Pre-school (5-6), voluntary
-- Primary school (6-12 years), mandatory
-	- ~16 students per class
-	- Uniform required
-
-Secondary education
-
-- Middle school (12-16 years), mandatory
-	- ~32 students per class
-	- Uniform required
-- Upper school (16-18), voluntary
-	- ~64 students for fundamentals (lecture-style)
-	- ~32 students for deeper study (tutor-style)
-	- Uniform required
-
-Tertiary education (Main document: :doc:`university`)
-
-- Vocational school (16-19/18-21), voluntary
-- Higher school of applied sciences (16-19/18-21), voluntary
-- Scientific upper school (18-21/23 years), voluntary
-- University of High Arts (UoHA) (18-28 years), voluntary
-- Old University (18-28 years), voluntary
+- Primary education
+	- Kindergarten (3-6 years), mandatory
+	- Pre-school (5-6), voluntary
+	- Primary school (6-12 years), mandatory
+		- ~16 students per class
+		- Uniform required
+- Secondary education
+	- Middle school (12-16 years), mandatory
+		- ~32 students per class
+		- Uniform required
+	- Upper school (16-18), voluntary
+		- ~64 students for fundamentals (lecture-style)
+		- ~32 students for deeper study (tutor-style)
+		- Uniform required
+- Tertiary education (Main document: :doc:`university`)
+	- Vocational school (16-19/18-21), voluntary
+	- Higher school of applied sciences (16-19/18-21), voluntary
+	- Scientific upper school (18-21/23 years), voluntary
+	- University of High Arts (UoHA) (18-28 years), voluntary
+	- Old University (18-28 years), voluntary
 
 Subjects
 --------
