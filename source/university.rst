@@ -99,7 +99,7 @@ Old University
 
 Die alte Universität charakterisiert sich als *alt* oder *tief*.
 
-Die alte Uni kehrt zur tiefen Gelehrsamkeit zurück, zu Fundamenten einer Zivilisation und Grundmauern der Weltordnung. Systematisch und scharf werden immerwährende Urgesetze gelehrt, unerschütterlich, still und ernst. Heute unzeitgemäß, aber notwendig. Diskutiert werden Dinge die ewig gelten.
+Die alte Universität kehrt zur tiefen Gelehrsamkeit zurück, zu Fundamenten einer Zivilisation und Grundmauern der Weltordnung. Systematisch und scharf werden immerwährende Urgesetze gelehrt, unerschütterlich, still und ernst. Heute unzeitgemäß, aber notwendig. Diskutiert werden Dinge die ewig gelten.
 
 Studienangebot:
 
