@@ -44,6 +44,7 @@ Die Universität lehnt die Moderne ab, fordert eine Zeitlosigkeit.
 Sie steht für Teile der Gesellschaft wo Seele, Ausdruck und Tiefe fehlen.
 
 Einführungsstudium (2 Jahre) vor beiden Universitäten:
+
 - Ethik, Recht und Schuld
 - Geschichte und Geographie
 - Kulturen und Religionen
@@ -64,6 +65,7 @@ Die Universität der hohen Künste charakterisiert sich als *exzellent* oder *ho
 Kunst ist kein Dialog oder Diskurs, nicht politisch, sondern ein menschlicher Ausdruck oder Abdruck (Form). Kunst ist diszipliniert, verkopft, lastig; oft schwer. Die Lehrform ist fordernd, klassisch, stilstreng, aber auch ästhetisch und ausdrucksstark. Expressive Kunst wird nicht als Ausdruck des Beliebigen gesehen, tatsächlich braucht es einer inneren Notwendigkeit des Gestaltungszwangs. Das Geformte steht immer über dem Dekonstruierten. Ausdruck hat Gewicht, und ist tragend.
 
 Studienangebot:
+
 - Philosophie
 - Klassische Musik
 - Komponieren
@@ -100,6 +102,7 @@ Die alte Universität charakterisiert sich als *alt* oder *tief*.
 Die alte Uni kehrt zur tiefen Gelehrsamkeit zurück, zu Fundamenten einer Zivilisation und Grundmauern der Weltordnung. Systematisch und scharf werden immerwährende Urgesetze gelehrt, unerschütterlich, still und ernst. Heute unzeitgemäß, aber notwendig. Diskutiert werden Dinge die ewig gelten.
 
 Studienangebot:
+
 - Theologie
     - unter anderem: Christentum, Islam, Hinduismus, Buddhismus, Judentum, Taoismus, Konfuzianismus, Stoizismus, antike griechisch-römische Religion, traditionelle afrikanische Religionen, Zoroastrismus, Shinto, indigene amerikanische Religionen
 - Medizin
