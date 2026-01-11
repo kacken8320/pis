@@ -1,4 +1,5 @@
 sphinx
 alabaster
 furo
-sphinx-breeze-theme
+sphinx-breeze-theme # breeze
+cloud-sptheme # cloud
