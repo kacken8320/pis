@@ -6,3 +6,4 @@ People in Society
 
     bathing
     school
+    university
