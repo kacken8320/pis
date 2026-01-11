@@ -3,3 +3,4 @@ alabaster
 furo
 sphinx-breeze-theme # breeze
 cloud-sptheme # cloud
+sphinx-conestack-theme # conestack
