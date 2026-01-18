@@ -1,23 +1,36 @@
 Religion
 ========
 
-Religions by population:
+Religions by largest religious groups
 
-================================ ================================
-Religion							 Followers
-================================ ================================
-Christianity					 2.5B
-Islam							 1.9B
-Hinduism						 1B
-Buddhism						 500M
-Chinese folk religions			 500M
-Ethnic/tribal (Africa)			 300M
-Sikhism							 
-Judaism
-Taoism
-Confucianism
-Shinto
-================================ ================================
+.. list-table::
+    :header-rows: 1
+
+    * - Religion
+      - Followers
+      - Cultural tradition
+      - Founded
+    * - Christianity
+      - 2.3B
+      - Abrahamic
+      - Judaea (Middle East), ~30
+    * - Islam
+      - 2B
+      - Abrahamic
+      - Hejaz (Middle East), ~610
+    * - Hinduism
+      - 1.2B
+      - Indian
+      - Indian subcontinent, ~1800 B.C.
+    * - Buddhism
+      - 300M
+      - Indian
+      - Indian subcontinent, ~500 B.C.
+    * - Folk religion
+      - 200M
+      - Regional
+      - Worldwide
+
 
 
 Major Religions by main branches
