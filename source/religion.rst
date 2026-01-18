@@ -22,6 +22,7 @@ Shinto
 
 .. list-table:: Major Religions by main branches
     :header-rows: 1
+
     * - Abrahamic Religions (Middle Eastern origin)
       - Christianity (2.5B)
       - Islam (1.9B)
@@ -41,6 +42,7 @@ Shinto
 
 .. list-table:: Major Religions by population
     :header-rows: 1
+
     * - Christianity
       - 2.5B
     * - Islam
