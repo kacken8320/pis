@@ -67,36 +67,31 @@ Overview
       - 1.3B
       - Israel/Palestine, ~30-33 A.D.
       - Worldwide, esp. Latin America, Europe, Philippines
-    * - Protestantism
-      - Christianity
-      - 900M
-      - Germany/Europe, ~1517 A.D.
-      - USA, Europe, Sub-Saharan Africa
-    * - Eastern Orthodoxy
-      - Christianity
-      - 260M
-      - Israel/Palestine, ~30-33 A.D.
-      - Russia, Greece, Eastern Europe
     * - Sunni
       - Islam
       - 1.3B
       - Saudi Arabia/Mecca, ~610 A.D.
       - Middle East, North Africa, South Asia, Indonesia
+    * - Protestantism
+      - Christianity
+      - 900M
+      - Germany/Europe, ~1517 A.D.
+      - USA, Europe, Sub-Saharan Africa
+    * - Chinese folk religion
+      - Chinese folk/folk religion
+      - 300M+
+      - China, ancient (~2000 B.C.)
+      - China, Taiwan
+    * - Eastern Orthodoxy
+      - Christianity
+      - 260M
+      - Israel/Palestine, ~30-33 A.D.
+      - Russia, Greece, Eastern Europe
     * - Shia
       - Islam
       - 240M
       - Saudi Arabia/Mecca, ~632 A.D.
       - Iran, Iraq, Pakistan
-    * - Mahayana
-      - Buddhism
-      - 185M
-      - India/Nepal, ~1st century B.C.
-      - China, Japan, Korea, Vietnam
-    * - Theravada
-      - Buddhism
-      - 125M
-      - India/Sri Lanka, ~3rd century B.C.
-      - Thailand, Myanmar, Sri Lanka, Cambodia, Laos
     * - Hindu (Vaishnavism)
       - Hinduism
       - 500M+
@@ -107,6 +102,21 @@ Overview
       - 250M+
       - India, ~2000 B.C.
       - India, Nepal
+    * - Mahayana
+      - Buddhism
+      - 185M
+      - India/Nepal, ~1st century B.C.
+      - China, Japan, Korea, Vietnam
+    * - Theravada
+      - Buddhism
+      - 125M
+      - India/Sri Lanka, ~3rd century B.C.
+      - Thailand, Myanmar, Sri Lanka, Cambodia, Laos
+    * - Shinto
+      - Shinto
+      - 100M+
+      - Japan, ~500 B.C.
+      - Japan
     * - Taoism
       - Taoism
       - 60M+
@@ -117,16 +127,7 @@ Overview
       - 50M+
       - China, ~5th-6th century B.C.
       - China, Taiwan, Korea
-    * - Shinto
-      - Shinto
-      - 100M+
-      - Japan, ~500 B.C.
-      - Japan
-    * - Folk Chinese religion
-      - Chinese folk/folk religion
-      - 300M+
-      - China, ancient (~2000 B.C.)
-      - China, Taiwan
+
 
 
 Major Religions by main branches
