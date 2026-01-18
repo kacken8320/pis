@@ -20,51 +20,22 @@ Shinto
 ================================ ================================
 
 
-.. list-table:: Major Religions by main branches
-    :header-rows: 1
+Major Religions by main branches
 
-    * - Abrahamic Religions (Middle Eastern origin)
-      - Indian / Dharmic Religions (Indian subcontinent)
-      - East Asian Religions (China, Japan, Korea, ...)
-      - Chinese folk religion / ancestor worship
-      - African Traditional Religions
-      - Native American / Indigenous Religions
-    * - Christianity (2.5B)
-      - Hinduism (1B)
-      - Shinto (3M)
-      - 500M
-      - 300M
-      - 5M
-    * - Islam (1.9B)
-      - Buddhism (500M)
-      - Taoism (10M)
-      -
-      -
-      -
-    * - Judaism (10M)
-      -
-      - Confucianism (10M)
-      -
-      -
-      -
-    * -
-      -
-      -
-      -
-      -
-      -
-    * -
-      -
-      -
-      -
-      -
-      -
-    * -
-      -
-      -
-      -
-      -
-      -
+- Abrahamic Religions (Middle Eastern origin)
+    - Christianity (2.5B)
+    - Islam (1.9B)
+    - Judaism (10M)
+- Indian / Dharmic Religions (Indian subcontinent)
+    - Hinduism (1B)
+    - Buddhism (500M)
+- East Asian Religions (China, Japan, Korea, ...)
+    - Shinto (3M)
+    - Taoism (10M)
+    - Confucianism (10M)
+- Chinese folk religion / ancestor worship (500M)
+- African Traditional Religions (300M)
+- Native American / Indigenous Religions (5M)
 
 
 .. list-table:: Major Religions by population
