@@ -26,7 +26,7 @@ Largest religious groups
       - Worldwide
     * - Hinduism
       - 1.4B
-      - Indian
+      - Indian/Dharmic
       - Indian subcontinent, ~1800 B.C.
       - India
     * - Folk religions
@@ -36,7 +36,7 @@ Largest religious groups
       - Worldwide
     * - Buddhism
       - 500M
-      - Indian
+      - Indian/Dharmic
       - Indian subcontinent, ~500 B.C.
       - China, Indonesia
     * - Taoism
