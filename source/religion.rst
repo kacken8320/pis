@@ -4,9 +4,7 @@ Religion
 Overview
 --------
 
-Largest religious groups
-
-.. list-table::
+.. list-table:: Largest religious groups
     :header-rows: 1
 
     * - Religion
@@ -55,6 +53,80 @@ Largest religious groups
       - Japan, ~800 A.D.
       - Japan
 
+
+.. list-table:: Largest religious groups by sect
+    :header-rows: 1
+
+    * - Sect
+      - Religion
+      - Followers
+      - Founded
+      - Major population
+    * - Roman Catholicism
+      - Christianity
+      - 1.3B
+      - Israel/Palestine, ~30-33 A.D.
+      - Worldwide, esp. Latin America, Europe, Philippines
+    * - Protestantism
+      - Christianity
+      - 900M
+      - Germany/Europe, ~1517 A.D.
+      - USA, Europe, Sub-Saharan Africa
+    * - Eastern Orthodoxy
+      - Christianity
+      - 260M
+      - Israel/Palestine, ~30-33 A.D.
+      - Russia, Greece, Eastern Europe
+    * - Sunni
+      - Islam
+      - 1.3B
+      - Saudi Arabia/Mecca, ~610 A.D.
+      - Middle East, North Africa, South Asia, Indonesia
+    * - Shia
+      - Islam
+      - 240M
+      - Saudi Arabia/Mecca, ~632 A.D.
+      - Iran, Iraq, Pakistan
+    * - Mahayana
+      - Buddhism
+      - 185M
+      - India/Nepal, ~1st century B.C.
+      - China, Japan, Korea, Vietnam
+    * - Theravada
+      - Buddhism
+      - 125M
+      - India/Sri Lanka, ~3rd century B.C.
+      - Thailand, Myanmar, Sri Lanka, Cambodia, Laos
+    * - Hindu (Vaishnavism)
+      - Hinduism
+      - 500M+
+      - India, ~2000 B.C.
+      - India, Nepal
+    * - Hindu (Shaivism)
+      - Hinduism
+      - 250M+
+      - India, ~2000 B.C.
+      - India, Nepal
+    * - Taoism
+      - Taoism
+      - 60M+
+      - China, ~4th century B.C.
+      - China, Taiwan
+    * - Confucianism
+      - Confucianism
+      - 50M+
+      - China, ~5th-6th century B.C.
+      - China, Taiwan, Korea
+    * - Shinto
+      - Shinto
+      - 100M+
+      - Japan, ~500 B.C.
+      - Japan
+    * - Folk Chinese religion
+      - Chinese folk/folk religion
+      - 300M+
+      - China, ancient (~2000 B.C.)
+      - China, Taiwan
 
 
 Major Religions by main branches
