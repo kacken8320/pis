@@ -13,38 +13,47 @@ Largest religious groups
       - Followers
       - Cultural tradition
       - Founded
+      - Major population
     * - Christianity
       - 2B
       - Abrahamic
       - Judaea (Middle East), ~30 A.C.
+      - Worldwide
     * - Islam
       - 1.7B
       - Abrahamic
       - Hejaz (Middle East), ~610 A.C.
+      - Worldwide
     * - Hinduism
       - 1.4B
       - Indian
       - Indian subcontinent, ~1800 B.C.
+      - India
     * - Folk religions
       - 1B
       - Regional
+      - Worldwide
       - Worldwide
     * - Buddhism
       - 500M
       - Indian
       - Indian subcontinent, ~500 B.C.
+      - China, Indonesia
     * - Taoism
       - 500M
       - Chinese
       - China, ~400 B.C.
+      - China, Indonesia
     * - Confucianism
       - 500M
       - Chinese
       - China, ~600 B.C.
+      - China, Indonesia
     * - Shinto
       - 128M
       - Japanese
       - Japan, ~800 A.D.
+      - Japan
 
 
 
