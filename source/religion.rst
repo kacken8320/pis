@@ -1,7 +1,10 @@
 Religion
 ========
 
-Religions by largest religious groups
+Overview
+--------
+
+Largest religious groups
 
 .. list-table::
     :header-rows: 1
@@ -11,23 +14,35 @@ Religions by largest religious groups
       - Cultural tradition
       - Founded
     * - Christianity
-      - 2.3B
+      - 2B
       - Abrahamic
-      - Judaea (Middle East), ~30
+      - Judaea (Middle East), ~30 A.C.
     * - Islam
       - 2B
       - Abrahamic
-      - Hejaz (Middle East), ~610
+      - Hejaz (Middle East), ~610 A.C.
     * - Hinduism
-      - 1.2B
+      - 2B
       - Indian
       - Indian subcontinent, ~1800 B.C.
     * - Buddhism
-      - 300M
+      - 2B
       - Indian
       - Indian subcontinent, ~500 B.C.
-    * - Folk religion
-      - 200M
+    * - Taoism
+      - 1B
+      - Chinese
+      - China, ~400 B.C.
+    * - Confucianism
+      - 1B
+      - Chinese
+      - China, ~600 B.C.
+    * - Shinto
+      - 128M
+      - Japanese
+      - Japan, ~800 A.D.
+    * - Folk religions
+      - 1B
       - Regional
       - Worldwide
 
